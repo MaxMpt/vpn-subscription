@@ -1,0 +1,2 @@
+vless://5803f438-b50a-4e3b-8d8b-6916a039d0cd@195.63.144.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=4c09&sni=www.sony.com&spx=%2FrHtl6m69o962QPf&type=tcp#VLESS-Reality-Test
+vless://e23c192a-9714-4387-8399-73818a950691@89.124.64.16:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=4c09&sni=www.sony.com&spx=%2FoR4gaKVKriKgiwK&type=tcp#VLESS-Reality-Test2
