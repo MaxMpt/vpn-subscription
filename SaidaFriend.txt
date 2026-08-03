@@ -1,0 +1,2 @@
+vless://6300e0e7-1311-4a03-9dde-14eb4a000a40@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B_ECg6QHMzkOBnIooFJF3TmrqTxyi5KZG0hpOdiu3EE&security=reality&sid=2defe5aff7b28dea&sni=www.sony.co.uk&spx=%2F2ibszAWXnQORlmT&type=tcp#Amsterdam-1.1-SaidaFriend
+vless://7889d89e-62cb-41f5-9b1b-9eb3bae2410b@89.40.70.124:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2UHMR3ko8nBUTbZpQrvWP9ylSmcAj5YXSNG_o-N8EW8&security=reality&sid=5b33d3e71a14f4&sni=www.sony.co.uk&spx=%2FUYZ9bFilPk2GPdu&type=tcp#Amsterdam-2.1-SaidaFriend
