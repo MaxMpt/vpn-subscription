@@ -1,2 +1,1 @@
 vless://d552cbf7-72d3-40df-8b85-75f1b6d93ae8@93.89.223.35:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Bnnek0xCDlrVWX6_6MepYaZgaTJHYw3QLZ91BunmaHI&security=reality&sid=d4285f6c&sni=www.sony.co.uk&spx=%2F3DgL0xuRFEJ7Fop&type=tcp#Amsterdam-2.1-Ysuf-mama
-vless://0ac312ba-f76a-4ede-8788-6628a7384fdc@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JZORWHOos0-_iHQOiBAOvoc0c8FwVKF2rvNSymis1DI&security=reality&sid=8a37fb76c8b0c5&sni=www.sony.co.uk&spx=%2F41azKpySsuIUNaK&type=tcp#Amsterdam-3.1-Ysuf-mama
