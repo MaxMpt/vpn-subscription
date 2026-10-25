@@ -1,2 +1,1 @@
 vless://e34fcc5b-74ae-4a35-8cc4-88dcdb495446@78.17.198.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JzIMlePChn4JDWCVrNi91eCV67cdHRgcYTMUhy9SGgk&security=reality&sid=791e&sni=www.sony.co.uk&spx=%2F5x3C4tJMm5YgSK7&type=tcp#Amsterdam-1-SaidaSister
-vless://9236819d-7042-483a-8b54-fb666b906b0f@217.147.13.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AMyv6Bw8kysYix8ZrmShk1vRckS4m9TJ5R04ir8volI&security=reality&sid=8a03ca&sni=www.sony.co.uk&spx=%2F6khm9dz2ZY5Z3no&type=tcp#Server-1-SaidaSister
