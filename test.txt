@@ -1,1 +1,2 @@
-vless://1b99144a-c3bb-46ac-b16b-6bf2756f6e73@78.17.198.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JzIMlePChn4JDWCVrNi91eCV67cdHRgcYTMUhy9SGgk&security=reality&sid=791e&sni=www.sony.co.uk&spx=%2F5x3C4tJMm5YgSK7&type=tcp#Amsterdam-1-test
+vless://2defcb2e-39d5-456d-b4f2-65b3980e6cc3@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=%2FuUr56K29YvRQ5rt&type=tcp#Amsterdam-1-test
+vless://1b99144a-c3bb-46ac-b16b-6bf2756f6e73@78.17.198.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JzIMlePChn4JDWCVrNi91eCV67cdHRgcYTMUhy9SGgk&security=reality&sid=791e&sni=www.sony.co.uk&spx=%2F5x3C4tJMm5YgSK7&type=tcp#Amsterdam-2-test
