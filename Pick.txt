@@ -1,2 +1,2 @@
+vless://1124a5b1-8df1-471c-a8ca-7975043f861b@208.123.190.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wMJ7yBqYhvAP0b_crI6aVzIIuUGsqVsdlLwkA-FO_UA&security=reality&sid=2310&sni=www.sony.co.uk&spx=%2FFtnNZxQEt3pVpNV&type=tcp#Finland-Pick
 vless://773f9231-4ea7-4b9b-b18c-7833ea9b0a75@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=%2FuUr56K29YvRQ5rt&type=tcp#Amsterdam-1-Pick
-vless://b6baa4dc-c8ba-40c3-bb18-51bd04f262ed@78.17.198.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JzIMlePChn4JDWCVrNi91eCV67cdHRgcYTMUhy9SGgk&security=reality&sid=791e&sni=www.sony.co.uk&spx=%2F5x3C4tJMm5YgSK7&type=tcp#Amsterdam-2-Pick
