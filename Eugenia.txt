@@ -1,2 +1,2 @@
-vless://6d7aa375-bf4b-4c66-a01d-4a3cc5e2d36b@208.123.190.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wMJ7yBqYhvAP0b_crI6aVzIIuUGsqVsdlLwkA-FO_UA&security=reality&sid=2310&sni=www.sony.co.uk&spx=%2FFtnNZxQEt3pVpNV&type=tcp#Finland-Eugenia
+vless://ec88c6f6-218d-4922-8ec6-b084e1c2b3db@168.113.175.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrZP_XtVoy3L95ujyAUjHfD8DMnudIMVxC3JeoFixXo&security=reality&sid=32d831c1d07739&sni=amd.com&spx=%2FRs7Lqp3HVJCd8Fj&type=tcp#RUSSIA-AMERICA-Eugenia
 vless://fab43f52-129d-4e03-a0a5-5b63210c73c5@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=%2FuUr56K29YvRQ5rt&type=tcp#Amsterdam-1-Eugenia
