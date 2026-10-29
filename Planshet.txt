@@ -1,1 +1,1 @@
-vless://eee029c5-d983-4233-88ca-b87f0e46ac41@168.113.175.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrZP_XtVoy3L95ujyAUjHfD8DMnudIMVxC3JeoFixXo&security=reality&sid=32d831c1d07739&sni=www.samsung.com&spx=%2FRs7Lqp3HVJCd8Fj&type=tcp#RUSSIA-AMERICA-Planshet
+vless://eee029c5-d983-4233-88ca-b87f0e46ac41@168.113.175.139:10808?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrZP_XtVoy3L95ujyAUjHfD8DMnudIMVxC3JeoFixXo&security=reality&sid=32d831c1d07739&sni=www.samsung.com&spx=%2FRs7Lqp3HVJCd8Fj&type=tcp#RUSSIA-AMERICA-Planshet
