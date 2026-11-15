@@ -1,1 +1,1 @@
-vless://7b14ff18-0a63-47ab-af2b-73285b37f009@168.113.175.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rrZP_XtVoy3L95ujyAUjHfD8DMnudIMVxC3JeoFixXo&security=reality&sid=32d831c1d07739&sni=dl.google.com&spx=%2FRs7Lqp3HVJCd8Fj&type=tcp#RUSSIA-AMERICA-tg439045956
+vless://f6737f78-89a5-4fe3-9409-f26e66080640@103.31.78.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nx7s3ql4ibDWAsRyyONxnSeUvjXDoXdtUZm3TefeXkY&security=reality&sid=06&sni=dl.google.com&spx=%2FzOSBwu27qWpP12C&type=tcp#RUSSIA-AMERICA-tg439045956
